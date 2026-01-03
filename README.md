@@ -1,104 +1,94 @@
-
----
-
 # 🌐 Personal Portfolio Website
 
-A modern and visually rich **Personal Portfolio Website** built using **HTML and CSS**.
-This portfolio showcases professional skills, services, experience, and contact information with a clean, dark-themed UI and responsive layout.
+This repository contains my personal portfolio website created using HTML and CSS.  
+The portfolio showcases my education, skills, internships, campus ambassador roles, achievements, courses completed, and contact details.
 
 ---
 
-## ✨ Features
+## 👤 About Me
 
-* Elegant **dark UI design**
-* Professional hero section with name, role, and introduction
-* Services and expertise highlights
-* Experience and project metrics
-* Contact section with email link
-* Social media links (Dribbble, Behance, LinkedIn)
-* Responsive layout for desktop, tablet, and mobile
-* Clean typography using **Google Fonts (Poppins)**
+Name: Thanishka Yogesh  
+Role: Undergraduate Student | Campus Ambassador | Intern  
+Location: Chennai, Tamil Nadu, India  
+
+I am an organized and dependable undergraduate student with a strong interest in technology, web development, leadership, and continuous learning. I actively participate in campus ambassador programs, internships, volunteering activities, and creative design work while building a strong foundation in computer science.
 
 ---
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* Google Fonts (Poppins)
+- HTML5  
+- CSS3  
+- Visual Studio Code  
 
----
-
-## ▶️ How to Run the Website
-
-1. Clone or download the repository:
-
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   ```
-
-2. Open the project folder.
-
-3. Open the file in any modern browser:
-
-   ```
-   Portfolio.html
-   ```
-
-✅ No installation or backend required.
+(No frameworks or JavaScript used – beginner friendly)
 
 ---
 
 ## 📂 Project Structure
 
-```
-Portfolio.html
-README.md
-```
+portfolio/  
+│── index.html  
+│── style.css  
+│── ThanishkaYogesh026.jpeg  
+│── README.md  
 
 ---
 
-## 🧪 Sections Included
+## ✨ Features
 
-* **Navigation Bar** – Services, Works, Blog
-* **Hero Section** – Name, role, intro, CTA
-* **Profile Image Section**
-* **Services Overview**
-* **About / Quote Section**
-* **Contact Card**
-* **Footer with copyright**
-
----
-
-## 🎯 Learning Outcomes
-
-* Creating professional layouts using CSS Grid & Flexbox
-* Building responsive designs
-* Using CSS variables for theming
-* Structuring real-world portfolio websites
-* Improving UI/UX design sense
+- Personal introduction with profile image  
+- Professional summary  
+- Skills and competencies  
+- Education details  
+- Internships and work experience  
+- Campus ambassador roles  
+- Achievements, clubs, and volunteering  
+- Courses and certifications completed  
+- Languages known  
+- Interests and creative work  
+- Contact information with visible phone number  
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀 How to Run the Project
 
-* Add JavaScript animations
-* Make navigation links functional
-* Add project gallery section
-* Integrate contact form
-* Host using GitHub Pages
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Fork the repository and submit a pull request for enhancements or design improvements.
+1. Download or clone this repository  
+2. Open the folder in Visual Studio Code  
+3. Open index.html in any browser  
+   OR  
+4. Use the Live Server extension for better experience  
 
 ---
 
-## 📜 License
+## 🔗 Online Profiles
 
-This project is licensed under the **MIT License**.
+LinkedIn: https://www.linkedin.com/in/thanishka-yogesh-7496b  
+GitHub: https://github.com/thanishkaykb  
+SkillRack: http://www.skillrack.com/profile/545167  
+Poetry: https://www.poetrysoup.com/poems_poets/poems_by_poet_read.aspx?ID=181303  
+Art Instagram: https://www.instagram.com/art_by_thanishka  
 
 ---
+
+## 📞 Contact
+
+Phone: +91 90256 58705  
+Email: THANISHKA.YKB@gmail.com  
+Location: Chennai, Tamil Nadu  
+
+---
+
+## 📌 Future Enhancements
+
+- Add JavaScript for interactivity  
+- Dark mode toggle  
+- Downloadable resume button  
+- Host the website using GitHub Pages  
+
+---
+
+## ©️ Author
+
+Thanishka Yogesh  
+Undergraduate Student | Campus Ambassador | Aspiring Software Professional
